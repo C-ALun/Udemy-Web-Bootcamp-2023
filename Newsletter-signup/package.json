@@ -10,7 +10,7 @@
     "Newsletter",
     "signup"
   ],
-  "author": "Deepa Subramanian",
+  "author": "Alan Chan",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
