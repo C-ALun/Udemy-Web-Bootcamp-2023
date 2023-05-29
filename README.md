@@ -1,3 +1,3 @@
 # Udemy-Web-Bootcamp-2023
 
-![Alt text](FullStack.jpg?raw=true "certificate")
+![Alt text](completed_certificate?raw=true "certificate")
