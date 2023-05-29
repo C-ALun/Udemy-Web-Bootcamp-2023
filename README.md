@@ -161,8 +161,6 @@ mongoose, mongoose-encryption, dotenv, md5, bcrypt, passport, passport-local, pa
 - 397: PATCH a Specific Article
 - 398: DELETE a Specific Article
 
-Folder: Wiki-API
-
 ## Section 32 - Authentication & Security
 
 - 403: Getting Set Up
@@ -175,8 +173,6 @@ Folder: Wiki-API
 - 413a: Level 6 - OAuth 2.0 & How to Implement Sign In with Google
 - 413b: Level 6 - OAuth 2.0 with Facebook
 - 414: Letting Users Submit Secrets
-
-Folder: Secrets
 
 ### Section 33 - React.js
 
